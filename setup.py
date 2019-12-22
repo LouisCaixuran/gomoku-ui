@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name='gomoku',
-      version='0.4',
-      url='https://github.com/LouisCaixuran/gomoku',
+setup(name='gomoku-ui',
+      version='0.5',
+      url='https://github.com/LouisCaixuran/gomoku-ui',
       license='Apache',
       author='Louis Caixuran',
       author_email='louiscaixuran@163.com',
